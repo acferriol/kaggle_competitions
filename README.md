@@ -5,3 +5,5 @@ This repository is dedicated to hosting a collection of Jupyter notebooks develo
 See my Kaggle profile: <a href="https://kaggle.com/alejandrocespon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandrocespon" height="30" width="40" /></a>
 
 Data Available on Kaggle
+
+<b>Note:</b> Some of these notebooks may currently be competing. Please use them properly.
